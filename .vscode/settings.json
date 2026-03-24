@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#4b0082",
+        "statusBar.foreground": "#ffffff",
+        "statusBarItem.remoteBackground": "#4b0082"
+    },
+    "window.title": "🕵️ INFINITEMAGE | ${dirty}${activeEditorShort}${separator}${rootName}"
+}

@@ -31,7 +31,12 @@ Designed to build a fully integrated Security Operations Center (SOC) from scrat
 
 ### Phase 1: Vulnerability Management & Hardening
 *Implemented credentialed scanning to establish a baseline and remediated critical misconfigurations.*
-* 📄 [Windows 10 Vulnerability Assessment: SMB Signing & OS End-of-Life Lifecycle](./Vulnerability_Management/)
+* 📄 [Windows 10 Vulnerability Assessment](./Vulnerability_Management/)
+
+* 📄 [SMB Signing](./Vulnerability_Management/01_SMB_Signing_Misconfig.md)
+
+* 📄 [Windows 10 OS End-of-Life Lifecycle](./Vulnerability_Management/)
+
 * 📜 [Linux Hardening & Auditing Scripts](./Scripts/Linux_Hardening.sh)
 
 ### Phase 2: Log Aggregation & SIEM Deployment *(In Progress)*
@@ -49,6 +54,8 @@ Designed to build a fully integrated Security Operations Center (SOC) from scrat
 ## 👤 About the Author 
 I am a driven Cybersecurity Engineer with a focus on Detection Engineering, Vulnerability Management, and Systems Architecture, coupled with a strong passion for offensive security and penetration testing. 
 
-<img src="https://" alt="TryHackMe Image Badge" />
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UT7LK4T0OE.pdf" alt="TryHackMe Cyber Security 101 Certificate" />
+
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WMYHICYXK.pdf" alt="TryHackMe Pre Security Certificate" />
 
 > *"The way you do one thing is the way you do everything."* — Miyamoto Musashi
