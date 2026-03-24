@@ -31,7 +31,7 @@ Designed to build a fully integrated Security Operations Center (SOC) from scrat
 
 ### Phase 1: Vulnerability Management & Hardening
 *Implemented credentialed scanning to establish a baseline and remediated critical misconfigurations.*
-* 📄 [Windows 10 Vulnerability Assessment](./Vulnerability_Management/)
+* 📄 [Windows 10 Vulnerability Assessment](./Vulnerability_Management/Vulnerability_Assesment_Nessus_Windows10.md)
 
 * 📄 [SMB Signing](./Vulnerability_Management/01_SMB_Signing_Misconfig.md)
 
